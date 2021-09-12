@@ -1,7 +1,7 @@
 # SIMPLE_AssemblerEmulator
 Assembler and Emulator for SIMPLE Assembly Language
 
-* Written in C89
+* Written in C
 
 ### For running:-
 gcc asm.c -o asm
